@@ -1,0 +1,31 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #707070;
+    margin: 0;
+    padding: 0;
+}
+
+.green {
+    background-color: #28A745;
+}
+
+h5 {
+    font-weight: 300;
+    color: #212529;
+}
+
+.location {
+    font-size: small;
+}
+
+.text-button {
+    text-decoration: none;
+    font-size: 1.5em;
+    font-weight: 500;
+    margin-left: 0.25em;
+}
+.content-form {
+    width: 278px;
+    margin: auto;
+}
